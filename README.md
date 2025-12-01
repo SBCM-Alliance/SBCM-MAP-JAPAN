@@ -5,7 +5,7 @@
 このリポジトリは、**「標準ブロック比較法 (SBCM)」** に基づき、日本の基礎自治体における財政構造の歪みを可視化するプロジェクトです。
 
 ## 🌐 Live Demo
-[地図を見る (View Map)](https://SBCM-Alliance.github.io/sbcm-map/)
+[地図を見る (View Map)](https://sbcm-alliance.github.io/SBCM-MAP-JAPAN/)
 
 ## 📊 What is SBCM?
 **標準ブロック比較法 (Standard Block Comparison Method)** は、人口規模の異なる自治体を「標準ブロック（人口約7.2万人）」という共通単位で正規化し、比較可能にするフレームワークです。
